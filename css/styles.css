@@ -1,0 +1,28 @@
+@media screen and (min-width: 480px) {
+    body {
+      background-color:#B0C4DE;
+      font-family: verdana;
+      background-size:cover;
+    }
+  }
+  nav>ul{
+    text-align:right;
+  }
+  nav>ul>li{
+    display:inline-block;
+  }
+  nav>ul>li>a{
+    padding:5px;
+    text-transform:uppercase;
+    text-decoration:none;
+    color:blue;
+    margin-top:5px;
+}
+.social{
+    text-align:right;
+    background-color:	#778899;
+  
+}
+.social footer{
+ text-align: center; 
+}
