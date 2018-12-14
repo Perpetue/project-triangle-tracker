@@ -12,11 +12,12 @@
       <body>
                <nav>
                     <ul>
-                       <li><a href="#background">Home</li>
-                        <li><a href="#about">About me</li>
-                        <li><a href="#hobbies"> Hobbies</a></li>
+                       <li><a href="#home">Home</li>
+                        <li><a href="#about">About </li>
+                        <li><a href="#instruction"> Instruction</a></li>
                       </ul>
                   </nav>
+                  <div id="home">
           <h3>Project Triangle Tracker</h3>
           <p>This project is about making the interface logic and business logic where the interface logic is a form made by three input places where the end user have </p>
           <p>to enter three different numbers which are the three lengths of the triangle and one button where the end user click to find which type of triangle. </p>
@@ -25,13 +26,22 @@
           <p> <strong>Isoceles triangle:</strong>There has three sides but two sides are equal.</p>
           <p><strong>Scalene triangle:</strong>There  has three sides but all sides aren't equal.</p>
           <h3>Instruction of the User</h3>
-          <p>If Lenght1= Lenght2 and  Lenght1= Lenght3 and  Lenght2= Lenght3,the user has an equilateral triangle. </p><br>
-          <p>If  Lenght1= Lenght2 or  Lenght1= Lenght3 or  Lenght2= Lenght3, the user has an isoceles triangle.</p> <br>
+          <p>If Lenght1= Lenght2 and  Lenght1= Lenght3 and  Lenght2= Lenght3,the user has an equilateral triangle. </p>
+          <p>If  Lenght1= Lenght2 or  Lenght1= Lenght3 or  Lenght2= Lenght3, the user has an isoceles triangle.</p> 
           <p>If all the above two conditions are not now it is a scalene triangle.</p>
-             Lenght1 : <input type ="number" id="lenght1">
-             Lenght2 : <input type ="number" id="lenght2">
-             Lenght3 : <input type ="number" id="lenght3">
+          </div>
+          <div class="container">
+          <form>
+            <label for="fname">Lenght1</label>
+              <input type ="number" id="lenght1" placeholder="Lenght1"><br><br>
+             <label for="lname">Lenght2</label>
+             <input type ="number" id="lenght2" placeholder="Lenght2"><br><br>
+             <label for="lname">Lenght3</label>
+             <input type ="number" id="lenght3" placeholder="Lenght3"><br><br>
          <button onclick="myFunction()"> Run </button>
+        </div>
+        </form>
+        
          <div class="social">
             <a href="muperpety@gmail.com" class="fa fa-gmail">gmail</a>
             <a href="https://www.facebook.com/mhawenimana.perpetue" class="fa fa-facebook">Facebook</a>
