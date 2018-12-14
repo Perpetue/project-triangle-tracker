@@ -5,7 +5,6 @@ function myFunction () {
     var triangle=[lenght1,lenght2,lenght3];
     console.log( triangle);
     if (lenght1+lenght2 > lenght3 && lenght1+ lenght3>lenght2 && lenght2+lenght3>lenght1) {
-
     if (lenght1===lenght2 && lenght1===lenght3 && lenght2===lenght3) {
         alert("Equilateral triangle");
         console.log("Equilateral triangle ");
