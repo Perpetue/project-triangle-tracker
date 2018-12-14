@@ -1,6 +1,6 @@
 @media screen and (min-width: 480px) {
     body {
-      background-color:#B0C4DE;
+      background-color:	#20B2AA;
       font-family: verdana;
       background-size:cover;
     }
@@ -15,13 +15,32 @@
     padding:5px;
     text-transform:uppercase;
     text-decoration:none;
-    color:blue;
+    color:white;
     margin-top:5px;
 }
+#home{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    margin-left: 60px;
+    margin-right: 60px;
+}
+input[type=number], select {
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+  }
+  .container {
+    border-radius: 5px;
+    background-color: #f2f2f283;
+    padding: 20px;
+    margin-left: 60px;
+    
+  }
 .social{
     text-align:right;
-    background-color:	#778899;
-  
+    background-color:	#87CEFA;
+    margin-top: 60px;
 }
 .social footer{
  text-align: center; 
