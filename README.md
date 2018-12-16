@@ -13,4 +13,5 @@ https://github.com/Perpetue/project-triangle-tracker
 About the languages and tools I used to create this project. Assume that I know you probably used  languages HTML ,CSS, Javascripts and Markdown.
 ## Support and contact details
 Let people know what to do if they run into any issues or have questions, ideas or concerns.  Encourage them to contact me at E-mail:muperpety@gmail.com and Tel.Number:0786309745
-
+## copyright and License information
+ * Copyright (c) 2018 PERPETUE MUHAWENIMANA
