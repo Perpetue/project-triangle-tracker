@@ -9,3 +9,5 @@ This is a great place to list setup instructions in a simple easy-to-understand.
 ## Link to live site on GitHub Pages
 https://github.com/Perpetue/project-triangle-tracker
 
+## Technologies Used
+About the languages and tools I used to create this project. Assume that I know you probably used  languages HTML ,CSS, Javascripts and Markdown.
