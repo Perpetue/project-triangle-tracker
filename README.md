@@ -6,4 +6,6 @@
 This project is about making the interface logic and business logic where the interface logic is a form made by three input places where the end user have  to enter three different numbers which are the three lengths of the triangle and one button where the end user click to find which type of triangle. 
 ##### Setup instructions:
 This is a great place to list setup instructions in a simple easy-to-understand.use google chrome and text-editor.
+## Link to live site on GitHub Pages
+https://github.com/Perpetue/project-triangle-tracker
 
