@@ -17,9 +17,9 @@ This is a great place to list setup instructions in a simple easy-to-understand.
 ## USER STORY
 
  The user, I want to enter the length values of the three sides of my triangle in the application.
- ...
+ 
  After submitting length, the application should tell me what type of triangle my length will produce, whether an isosceles, equilateral, scalene or NO triangle at all.
- ...
+ 
  For an equilateral triangle, all sides must be equal.
  For an isosceles triangle, two sides are exactly equal.
  For a scalene triangle, none of the sides is equal. However, the sum of any two sides of the triangle must be greater than the third side.

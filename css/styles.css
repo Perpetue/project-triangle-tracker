@@ -1,50 +1,64 @@
 @media screen and (min-width: 480px) {
-    body {
-      background-color:	#20B2AA;
-      font-family: verdana;
-      background-size:cover;
+  body {
+    background-image:url("https://images.unsplash.com/photo-1500769611524-c0045efac2cf?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80");
+    font-family: verdana;
+    background-size:cover;
     }
   }
-  nav>ul{
-    text-align:right;
-  }
-  nav>ul>li{
-    display:inline-block;
-  }
-  nav>ul>li>a{
-    padding:5px;
-    text-transform:uppercase;
-    text-decoration:none;
-    color:white;
-    margin-top:5px;
+nav>ul{
+  text-align:right;
+}
+nav>ul>li{
+  display:inline-block;
+}
+nav>ul>li>a{
+  padding:0px;
+  text-transform:uppercase;
+  text-decoration:none;
+  color:white;
+  margin-top:5px;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+#model{
+  background-color: #20B2AA;
+  width: 700px;
+  height: 750PX;
+  border: 25px solid #87CEFA;
+  padding: 25px;
+  margin-left: 200px;
 }
 #home{
-    font-family: Arial, Helvetica, sans-serif;
-    font-size: 18px;
-    margin-left: 60px;
-    margin-right: 60px;
+  font-family:Arial, Helvetica, sans-serif;
+  font-size: 18px;
+  padding: 5px;
+  margin-left:60px;
+  margin-right: 60px;
+  padding: 10px;
 }
 h3{
+  text-transform:uppercase;
   color:white
 }
 input[type=number], select {
-    display: inline-block;
-    border: 1px solid #ccc;
-    border-radius: 4px;
-    box-sizing: border-box;
-    height: 40px;
-  }
-  .container {
-    border-radius: 10px;
-    background-color: #f2f2f283;
-    padding: 10px;
-    margin-left: 60px;
-    
-  }
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  height: 40px;
+}
+.container {
+  border-radius: 10px;
+  padding: 10px;
+  margin-left:60px;
+  background-image: url("https://images.unsplash.com/photo-1498354136128-58f790194fa7?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80");   
+}
 .social{
-    text-align:right;
-    background-color:	#87CEFA;
-    margin-top: 60px;
+  text-align:right;
+  background-color:	#87CEFA;
+  margin-top: 60px;
+  margin-left: 10px;
+  margin-right: 10px;
 }
 .social footer{
  text-align: center; 
